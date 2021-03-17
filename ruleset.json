@@ -24,7 +24,10 @@
         "options": {
           "globsAny": ["README*"],
           "nocase": true
-        }
+        },
+      "fix": {
+        "type":"github-issue-create"
+      }
       }
     }
   }
