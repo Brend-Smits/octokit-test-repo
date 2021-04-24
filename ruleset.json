@@ -8,7 +8,7 @@
   },
   "rules": {
     "license-file-exists": {
-      "level": "error",
+      "level": "warning",
       "rule": {
         "type": "file-existence",
         "options": {
@@ -21,7 +21,7 @@
       }
     },
     "readme-file-exists": {
-      "level": "error",
+      "level": "warning",
       "rule": {
         "type": "file-existence",
         "options": {
